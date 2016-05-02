@@ -1,0 +1,12 @@
+Django==1.9
+MySQL-python==1.2.5
+Werkzeug==0.9.6
+argparse==1.2.1
+diff-match-patch==20121119
+django-import-export==0.2.3
+httplib2==0.9
+oauth2==1.5.211
+simplejson==3.6.2
+tablib==0.10.0
+wsgiref==0.1.2
+Pillow==2.5.3
